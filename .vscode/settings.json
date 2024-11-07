@@ -1,0 +1,6 @@
+{
+  "editor.detectIndentation":true,
+  "[java]": {
+    "editor.formatOnSave": false
+  }
+}
